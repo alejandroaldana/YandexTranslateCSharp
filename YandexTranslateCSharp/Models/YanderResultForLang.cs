@@ -17,6 +17,7 @@ namespace YandexTranslateCSharp.Models
 
     public class Langs
     {
+		
         public string ru { get; set; }
         public string en { get; set; }
         public string pl { get; set; }
