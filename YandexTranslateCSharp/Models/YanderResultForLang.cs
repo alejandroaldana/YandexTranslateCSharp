@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //NAMESPACE
-//
 namespace YandexTranslateCSharp.Models
 {
     public class YanderResultForLang
