@@ -13,6 +13,7 @@ namespace YandexTranslateCSharp.Models
     }
 
 
+	
 
     public class Langs
     {
